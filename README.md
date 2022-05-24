@@ -11,7 +11,8 @@
   - Metaprogramming
 
 - **Fortalezas y debilidades**
-  \n**Fortalezas:**
+
+  **Fortalezas:**
   - Incluye introspección, condiciones de tiempo de compilación complejas y generación de código que puede escribir a partir de funciones D.
   - Al igual que otros lenguajes como C#, contiene un Garbage Collection (GC) que permite que escribamos código que maneja la memoria sin esfuerzo extra.
   - Operaciones comunes se realizan de forma más rápida y sencilla en D si lo comparamos con su antecesor C++.
